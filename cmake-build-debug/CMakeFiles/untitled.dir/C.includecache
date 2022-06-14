@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jean-baptistebruneau/Downloads/0.6 4/conio.c
+windows.h
+-
+conio.h
+-
+conio.h
+/Users/jean-baptistebruneau/Downloads/0.6 4/conio.h
+limits.h
+-
+stdbool.h
+-
+stdio.h
+-
+termios.h
+-
+unistd.h
+-
+fcntl.h
+-
+sys/ioctl.h
+-
+conio.h
+/Users/jean-baptistebruneau/Downloads/0.6 4/conio.h
+
+/Users/jean-baptistebruneau/Downloads/0.6 4/conio.h
+
+/Users/jean-baptistebruneau/Downloads/0.6 4/main.c
+stdio.h
+-
+rubiks.h
+/Users/jean-baptistebruneau/Downloads/0.6 4/rubiks.h
+rubiks.c
+/Users/jean-baptistebruneau/Downloads/0.6 4/rubiks.c
+conio.h
+/Users/jean-baptistebruneau/Downloads/0.6 4/conio.h
+conio.c
+/Users/jean-baptistebruneau/Downloads/0.6 4/conio.c
+
+/Users/jean-baptistebruneau/Downloads/0.6 4/rubiks.c
+conio.h
+/Users/jean-baptistebruneau/Downloads/0.6 4/conio.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/jean-baptistebruneau/Downloads/0.6 4/rubiks.h
+stdio.h
+-
+
